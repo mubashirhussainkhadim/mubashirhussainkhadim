@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Blockchain developer from Pakistan</h3>
 
 
-<p align="left"> <a href="https://twitter.com/@mubashir_khadim" target="blank"><img src="https://img.shields.io/twitter/follow/@mubashir_khadim?logo=twitter&style=for-the-badge" alt="@mubashir_khadim" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@mubashir_khadim" target="blank"><img src="" alt="@mubashir_khadim" /></a> </p>
 
 - 🌱 I’m currently learning **Solidity , hardhat**
 
