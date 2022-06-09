@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mubashir Hussain</h1>
 <h3 align="center">A passionate Blockchain developer from Pakistan</h3>
 
-
-<p align="left"> <a href="https://twitter.com/@mubashir_khadim" target="blank"><img src="" alt="@mubashir_khadim" /></a> </p>
-
 - 🌱 I’m currently learning **Solidity , hardhat**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mubashirhussainkhadim](https://github.com/mubashirhussainkhadim)
