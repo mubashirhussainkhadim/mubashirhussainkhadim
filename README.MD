@@ -11,8 +11,6 @@
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 
 - 🔭 I’m currently working on Mubashir Hussain ! A Software Engineer in process from a well recognized university having knowledge on software development . Skilled in crypto mining and trading algorithms ,patterns and processes.
 
