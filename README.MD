@@ -16,7 +16,7 @@
 
 A blockchain evangelist who believes in the technology revolution which blockchain will bring and I keep myself updated to the upcoming technologies which will revolutionize the digital world in the future and will solve the modern daily life problems of the people.
 
-- 🌱 I’m currently learning Blockchian development , MERN Stack 
+- 🌱 I’m currently learning Blockchian development , React js development , Java development
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
