@@ -1,6 +1,8 @@
 # Mubashir Hussain - Full Stack Developer
 
-<img src="https://mubashirhussain.netlify.app/static/media/profile.4bfa714456720f77f5ca.jpg" alt="Profile Banner" width="150" style="border-radius: 50%;">
+<p align="center">
+  <img src="https://mubashirhussain.netlify.app/static/media/profile.4bfa714456720f77f5ca.jpg" alt="Profile Banner" width="150" style="border-radius: 50%;">
+</p>
 
 ## About Me
 
@@ -49,25 +51,6 @@ Hi, I am Mubashir Hussain, an experienced Full Stack Web Developer specializing 
 ### Backend PHP Developer at Asian Solution
 - **Project:** WordPress SSO.ID Integration Plugin  
 - **Role:** Created a WordPress plugin for SSO.ID authentication system, managing user authentication, token exchange, and enhancing the user experience with JavaScript-powered popup authentication.
-
----
-
-## 🚀 Projects
-
-### [Real Estate Marketplace](#)
-- **Role:** Backend Laravel Developer  
-- **Description:** Developed a platform for users to buy, sell, and rent properties online.
-
-### [WordPress SSO.ID Integration Plugin](#)
-- **Role:** Backend PHP Developer  
-- **Description:** Created a plugin for single sign-on capabilities with SSO.ID, including user authentication and token management.
-
----
-
-## 🎓 Education
-
-- **BS Computer Science**, Government College and University Faisalabad - Dec 2021
-- **Additional Certifications or Courses:** (Detail any additional certifications or courses here)
 
 ---
 
