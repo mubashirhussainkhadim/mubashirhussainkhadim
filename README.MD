@@ -1,6 +1,6 @@
 # Mubashir Hussain - Full Stack Developer
 
-![Profile Banner](https://via.placeholder.com/1297x200?text=Your+Banner+Image+Here)
+![Profile Banner](https://mubashirhussain.netlify.app/static/media/profile.4bfa714456720f77f5ca.jpg)
 
 ## About Me
 
