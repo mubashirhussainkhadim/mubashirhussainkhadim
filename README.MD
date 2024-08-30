@@ -42,44 +42,6 @@ Hi, I am Mubashir Hussain, an experienced Full Stack Web Developer specializing 
 
 ---
 
-## 🏢 Experience
-
-### Backend Laravel Developer at Asian Solution
-- **Project:** Real Estate Marketplace  
-- **Role:** Developed a sophisticated marketplace platform to provide users with a seamless platform for buying, selling, and renting properties online.
-
-### Backend PHP Developer at Asian Solution
-- **Project:** WordPress SSO.ID Integration Plugin  
-- **Role:** Created a WordPress plugin for SSO.ID authentication system, managing user authentication, token exchange, and enhancing the user experience with JavaScript-powered popup authentication.
-
----
-
-## 🌐 My Projects
-
-- [Personal-Portfolio](https://github.com/mubashirhussainkhadim/Personal-Portfolio)
-- [Company-Portfolio](https://github.com/mubashirhussainkhadim/Company-Portfolio)
-- [DSA_In_Python](https://github.com/mubashirhussainkhadim/DSA_In_Python)
-- [Single-sign-on-wordpressplugin](https://github.com/mubashirhussainkhadim/Single-sign-on-wordpressplugin)
-- [Portfolio](https://github.com/mubashirhussainkhadim/Portfolio)
-- [crude-operation-in-angular](https://github.com/mubashirhussainkhadim/crude-operation-in-angular)
-- [demo](https://github.com/mubashirhussainkhadim/demo)
-- [Intership_Daily_tasks](https://github.com/mubashirhussainkhadim/Intership_Daily_tasks)
-- [mubashirhussainkhadim](https://github.com/mubashirhussainkhadim/mubashirhussainkhadim)
-- [myJourneyTowards_JavaserverPage](https://github.com/mubashirhussainkhadim/myJourneyTowards_JavaserverPage)
-- [asserts](https://github.com/mubashirhussainkhadim/asserts)
-- [hardhat-lottery-smart-contract](https://github.com/mubashirhussainkhadim/hardhat-lottery-smart-contract)
-- [Hardhat-Fund-frontend](https://mubashirhussainkhadim.github.io/Hardhat-Fund-frontend/)
-- [html-fund-me-fcc](https://mubashirhussainkhadim.github.io/html-fund-me-fcc/)
-- [Hardhat-Fund-me](https://github.com/mubashirhussainkhadim/Hardhat-Fund-me)
-- [hardhat-sample-storage](https://github.com/mubashirhussainkhadim/hardhat-sample-storage)
-- [cryptokitties](https://github.com/mubashirhussainkhadim/cryptokitties)
-- [dex](https://github.com/mubashirhussainkhadim/dex)
-- [demo-bank-javascript](https://github.com/mubashirhussainkhadim/demo-bank-javascript)
-- [dice-game.io](https://mubashirhussainkhadim.github.io/dice-game.io/)
-- [secure-auction](https://github.com/mubashirhussainkhadim/secure-auction)
-
----
-
 ## 📫 Contact
 
 Feel free to reach out to me for any questions or opportunities!
