@@ -48,9 +48,3 @@ Feel free to reach out to me for any questions or opportunities!
 
 - **Email:** [mubashirhussainkhadim@gmail.com](mailto:mubashirhussainkhadim@gmail.com)
 - **LinkedIn:** [mubashirhussainkhadim](https://linkedin.com/in/mubashirhussainkhadim)
-
----
-
-## 📝 License
-
-© 2024 Mubashir Hussain. All rights reserved.
