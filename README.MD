@@ -1,9 +1,4 @@
 # Mubashir Hussain - Full Stack Developer
-
-<p align="center">
-  <img src="https://mubashirhussain.netlify.app/static/media/profile.4bfa714456720f77f5ca.jpg" alt="Profile Banner" width="150" style="border-radius: 50%;">
-</p>
-
 ## About Me
 
 Hi, I am Mubashir Hussain, an experienced Full Stack Web Developer specializing in Angular, Laravel, PHP, and WordPress. I have a proven track record in the healthcare and IT sectors, focusing on optimizing performance and user experience. My expertise spans web app development, security, and collaborative problem-solving. Let's discuss how I can help enhance your online presence!
