@@ -31,10 +31,3 @@ Feel free to reach out to me for any questions or opportunities!
 - **LinkedIn:** [mubashirhussainkhadim](https://linkedin.com/in/mubashirhussainkhadim)
 
 ---
-
-## Logos
-
-![Laravel Logo](https://upload.wikimedia.org/wikipedia/commons/a/a2/Laravel_logo.png)  
-![Vue.js Logo](https://upload.wikimedia.org/wikipedia/commons/6/6b/Vue.js_Logo_2.png)  
-![Livewire Logo](https://livewire.build/logo.png)  
-![WordPress Logo](https://upload.wikimedia.org/wikipedia/commons/a/a2/WordPress_logo_2019.svg)
