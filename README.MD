@@ -39,6 +39,6 @@ I am **Mubashir Hussain**, a Full Stack Web Developer specializing in **Laravel*
 ## 📫 Contact Me
 
 - **Email:** [mubashirhussainkhadim@gmail.com](mailto:mubashirhussainkhadim@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/mubashirhussainkhadim](https://linkedin.com/in/mubashirhussainkhadim)  
+- **LinkedIn:** [linkedin.com/in/mubashirdev](https://linkedin.com/in/mubashirdev)  
 
 > I am open to collaboration, freelance projects, and long-term professional opportunities. Let's build impactful web solutions together!
