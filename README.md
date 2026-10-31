@@ -77,6 +77,11 @@ More, including [CrawlReady AI](https://mubashirhussain.com/projects/crawlready-
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Your AI agent shouldn&#39;t call tools one at a time: what Factory&#39;s Droid 1.0 means for bulk jobs](https://mubashirhussain.com/blogs/your-ai-agent-shouldnt-call-tools-one-at-a-time-what-factorys-droid-10-means-for-bulk-jobs)
+- [Forward deployed engineer vs software engineer vs consultant: which one does your business need?](https://mubashirhussain.com/blogs/fde-vs-software-engineer-vs-consultant)
+- [Your AI agent&#39;s PHP passed the tests. Sloppy checks what the tests miss](https://mubashirhussain.com/blogs/your-ai-agents-php-passed-the-tests-sloppy-checks-what-the-tests-miss)
+- [Stop installing the same MCP server five times: GitHub and Google just made connectors a product](https://mubashirhussain.com/blogs/stop-installing-the-same-mcp-server-five-times-github-and-google-just-made-connectors-a-product)
+- [ChatGPT and Claude are moving into your ERP and CRM: let the system of record have the final say](https://mubashirhussain.com/blogs/chatgpt-and-claude-are-moving-into-your-erp-and-crm-let-the-system-of-record-have-the-final-say)
 <!-- BLOG-POST-LIST:END -->
 
 [Read all articles →](https://mubashirhussain.com/blogs)
