@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://mubashirhussain.com"><img src="./banner.png" alt="Mubashir Hussain, Forward Deployed Engineer. Let's get down to agents, automation and software. mubashirhussain.com" width="100%"></a>
+  <a href="https://mubashirhussain.com"><img src="./banner-2026.png" alt="Mubashir Hussain, Forward Deployed Engineer. Let's get down to agents, automation and software. mubashirhussain.com" width="100%"></a>
 </p>
 
 <p align="center">
