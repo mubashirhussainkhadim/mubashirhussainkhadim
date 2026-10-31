@@ -76,9 +76,8 @@ More, including [CrawlReady AI](https://mubashirhussain.com/projects/crawlready-
 
 ## Latest writing
 
-- [Your AI agent shouldn't call tools one at a time: what Factory's Droid 1.0 means for bulk jobs](https://mubashirhussain.com/blogs/your-ai-agent-shouldnt-call-tools-one-at-a-time-what-factorys-droid-10-means-for-bulk-jobs)
-- [Forward deployed engineer vs software engineer vs consultant](https://mubashirhussain.com/blogs/fde-vs-software-engineer-vs-consultant)
-- [Your AI agent's PHP passed the tests: what the tests miss](https://mubashirhussain.com/blogs/your-ai-agents-php-passed-the-tests-sloppy-checks-what-the-tests-miss)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [Read all articles →](https://mubashirhussain.com/blogs)
 
