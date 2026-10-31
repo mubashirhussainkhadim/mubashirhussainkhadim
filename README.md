@@ -1,162 +1,91 @@
 <p align="center">
-  <a href="https://mubashirhussain.com"><img src="./banner.png" alt="Mubashir Hussain, Forward Deployed Engineer &amp; AI Agents. mubashirhussain.com | linkedin.com/in/mubashirdev" width="100%"></a>
+  <a href="https://mubashirhussain.com"><img src="./banner.png" alt="Mubashir Hussain, Forward Deployed Engineer. Let's get down to agents, automation and software. mubashirhussain.com" width="100%"></a>
 </p>
 
 <p align="center">
-  <a href="https://mubashirhussain.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=3200&amp;pause=900&amp;color=FFB02E&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=I+embed+in+your+business+and+fix+it.;AI+agents+that+finish+tasks.;Claude%2C+ChatGPT+and+MCP+connectors.;Laravel%2C+Nuxt+and+Angular+in+production." alt="I embed in your business and fix it. AI agents that finish tasks. Claude, ChatGPT and MCP connectors. Laravel, Nuxt and Angular in production."></a>
+  <a href="https://mubashirhussain.com/book"><img src="https://img.shields.io/badge/Book_a_free_call-fff04d?style=for-the-badge&logo=googlecalendar&logoColor=111111" alt="Book a free call"></a>
+  <a href="https://mubashirhussain.com"><img src="https://img.shields.io/badge/mubashirhussain.com-111111?style=for-the-badge&logo=googlechrome&logoColor=fff04d" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/mubashirdev/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://x.com/mubashir_khadim"><img src="https://img.shields.io/badge/@mubashir__khadim-111111?style=for-the-badge&logo=x&logoColor=fff04d" alt="X"></a>
+  <a href="https://mubashirhussain.com/cv"><img src="https://img.shields.io/badge/CV-111111?style=for-the-badge&logo=readdotcv&logoColor=fff04d" alt="CV"></a>
+  <a href="https://mubashirhussain.com/blogs"><img src="https://img.shields.io/badge/Blog-111111?style=for-the-badge&logo=rss&logoColor=fff04d" alt="Blog"></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-available_for_UK_%26_US_work-6ee787?style=flat-square&amp;labelColor=07080a" alt="Available for UK and US work">
-  <img src="https://img.shields.io/badge/base-Lahore_·_PKT_(UTC%2B5)-eceae3?style=flat-square&amp;labelColor=07080a" alt="Based in Lahore, PKT (UTC+5)">
-  <img src="https://komarev.com/ghpvc/?username=mubashirhussainkhadim&amp;label=Profile+views&amp;color=ffb02e&amp;style=flat-square&amp;labelColor=07080a" alt="Profile views">
+## Hi, I'm Mubashir
+
+I'm a forward deployed engineer in Lahore, Pakistan. I work with businesses in the UK, UAE and US, and I build AI agents and software that save their teams hours.
+
+Tell me what is slowing your team down and I'll build the fix inside the tools you already use. I learn how the business really runs, build inside its real systems, ship to production and keep improving it.
+
+## What I build
+
+- **AI agents and chatbots.** Assistants that answer customers, quote jobs and book appointments from your real data, with a person approving anything sensitive.
+- **WhatsApp Business API.** The official WhatsApp Business setup: a shared inbox, approved templates and an AI assistant that answers 24/7.
+- **MCP servers and connectors.** Let Claude, ChatGPT and other AI assistants use your data safely, with permissions and an audit log.
+- **API and CRM/ERP integration.** Connect your CRM, ERP, booking and payment tools so data moves by itself, with alerts when something fails.
+- **AI workflow automation.** Automate the repetitive work, like documents, follow-ups and lead routing, and keep a person on the risky steps.
+- **Custom web apps.** Booking systems, dashboards, customer portals and business websites, mostly in Laravel, built around how your work is done.
+
+## How working with me goes
+
+1. **Tell me the problem.** Book a free call or message my AI agent on [my site](https://mubashirhussain.com). It asks the right questions and briefs me, so we start prepared.
+2. **We agree the plan and price.** You get a clear scope, a timeline and a price before any work starts.
+3. **I build and ship every week.** You see working progress each week and can change direction early. I stay on after launch to keep it running.
+
+## Recent work
+
+From my [case studies](https://mubashirhussain.com/field-reports):
+
+- **[Running a UK repair business on one platform](https://mubashirhussain.com/field-reports/fone-doctors)**: I lead development of the platform fone doctors runs on: customers, devices and repairs, bookings, payments, invoices and trade-ins. *Laravel · MySQL · Vue.js · Tailwind CSS*
+- **[The website where customers book a repair](https://mubashirhussain.com/field-reports/fone-doctors-website)**: customers find their device, see repair prices and book a repair. *Nuxt · Vue.js*
+- **[An operating system for a repair business](https://mubashirhussain.com/field-reports/fone-doctors-ane)**: ANE, the private staff workspace behind the shop.
+- **[A point-of-sale built for repair shops](https://mubashirhussain.com/field-reports/khadim-pos)**: Khadim POS, made for repair businesses rather than adapted from a retail till. *Laravel · Vue.js · MySQL*
+- **[Online booking and shop for repair businesses](https://mubashirhussain.com/field-reports/repair-front)**: Repair Front, a WordPress theme with a booking wizard, online payments and order tracking. *WordPress · WooCommerce · PHP*
+- **[A learning platform with secure video access](https://mubashirhussain.com/field-reports/sultan-academy)**: Sultan Academy Online, where students get secure access to video lectures. *Laravel · Vue.js · MySQL*
+- **[A team of AI agents that answers customers](https://mubashirhussain.com/field-reports/this-website)**: the agent on my own site, a coordinator with specialist agents, each with only the tools it needs. *Laravel · LLM APIs · MCP*. [Try the AI demos →](https://mubashirhussain.com/demos)
+
+More, including [CrawlReady AI](https://mubashirhussain.com/projects/crawlready-ai) (free AI SEO tools), are on my [work page](https://mubashirhussain.com/projects).
+
+## Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/Laravel-111111?style=flat-square&logo=laravel&logoColor=fff04d" alt="Laravel">
+  <img src="https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=fff04d" alt="PHP">
+  <img src="https://img.shields.io/badge/Livewire-111111?style=flat-square&logo=livewire&logoColor=fff04d" alt="Livewire">
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=fff04d" alt="Python">
+  <img src="https://img.shields.io/badge/Django-111111?style=flat-square&logo=django&logoColor=fff04d" alt="Django">
+  <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=fff04d" alt="FastAPI">
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=fff04d" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=fff04d" alt="Node.js">
+  <img src="https://img.shields.io/badge/Vue.js-111111?style=flat-square&logo=vuedotjs&logoColor=fff04d" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Nuxt-111111?style=flat-square&logo=nuxt&logoColor=fff04d" alt="Nuxt">
+  <img src="https://img.shields.io/badge/Angular-111111?style=flat-square&logo=angular&logoColor=fff04d" alt="Angular">
+  <img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=fff04d" alt="MySQL">
+  <img src="https://img.shields.io/badge/WordPress-111111?style=flat-square&logo=wordpress&logoColor=fff04d" alt="WordPress">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/MCP-fff04d?style=flat-square&logo=modelcontextprotocol&logoColor=111111" alt="MCP">
+  <img src="https://img.shields.io/badge/Claude-fff04d?style=flat-square&logo=claude&logoColor=111111" alt="Claude">
+  <img src="https://img.shields.io/badge/OpenAI-fff04d?style=flat-square" alt="OpenAI">
+  <img src="https://img.shields.io/badge/LangChain-fff04d?style=flat-square&logo=langchain&logoColor=111111" alt="LangChain">
+  <img src="https://img.shields.io/badge/LangGraph-fff04d?style=flat-square&logo=langgraph&logoColor=111111" alt="LangGraph">
+  <img src="https://img.shields.io/badge/WhatsApp_Business_API-fff04d?style=flat-square&logo=whatsapp&logoColor=111111" alt="WhatsApp Business API">
+  <img src="https://img.shields.io/badge/Meta_APIs-fff04d?style=flat-square&logo=meta&logoColor=111111" alt="Meta APIs">
+  <img src="https://img.shields.io/badge/Laravel_Forge-fff04d?style=flat-square&logo=laravel&logoColor=111111" alt="Laravel Forge">
 </p>
 
-<p align="center">
-  <a href="https://mubashirhussain.com/book"><img src="https://img.shields.io/badge/Book_a_call-mubashirhussain.com%2Fbook-ffb02e?style=for-the-badge&amp;labelColor=07080a&amp;logo=googlecalendar&amp;logoColor=ffb02e" alt="Book a call"></a>
-  <a href="https://mubashirhussain.com"><img src="https://img.shields.io/badge/Website-mubashirhussain.com-eceae3?style=for-the-badge&amp;labelColor=07080a&amp;logo=googlechrome&amp;logoColor=ffb02e" alt="Website"></a>
-</p>
+## Latest writing
+
+- [Your AI agent shouldn't call tools one at a time: what Factory's Droid 1.0 means for bulk jobs](https://mubashirhussain.com/blogs/your-ai-agent-shouldnt-call-tools-one-at-a-time-what-factorys-droid-10-means-for-bulk-jobs)
+- [Forward deployed engineer vs software engineer vs consultant](https://mubashirhussain.com/blogs/fde-vs-software-engineer-vs-consultant)
+- [Your AI agent's PHP passed the tests: what the tests miss](https://mubashirhussain.com/blogs/your-ai-agents-php-passed-the-tests-sloppy-checks-what-the-tests-miss)
+
+[Read all articles →](https://mubashirhussain.com/blogs)
 
 ---
 
-### `OPERATOR` · who I am
-
-I'm **Mubashir Hussain**, a **forward deployed engineer** based in Lahore, Pakistan, working remotely with clients worldwide, including businesses in the **UK and US**.
-
-**I embed in your business and build the AI agents, connectors and software that fix it, inside your own systems.** Instead of taking a spec and disappearing, I learn how your business really runs, build inside your real systems (integrations, automation, AI agents, internal tools), ship to production and stay on to improve it.
-
-<table>
-  <tr>
-    <td align="center" width="25%"><b><code>01</code> Embed</b></td>
-    <td align="center" width="25%"><b><code>02</code> Map</b></td>
-    <td align="center" width="25%"><b><code>03</code> Build</b></td>
-    <td align="center" width="25%"><b><code>04</code> Hand over</b></td>
-  </tr>
-</table>
-
-### `CAPABILITIES` · what I build
-
-| | |
-|---|---|
-| **01 · AI agents that finish tasks** | Agents that use tools wired to real data, with permissions, approvals and a log |
-| **02 · Claude, ChatGPT and MCP connectors** | Extensions, bots, plugins, MCP connectors and Claude skills for your business systems |
-| **03 · WhatsApp and Instagram automation** | WhatsApp Business, Instagram and Facebook Login integrations |
-| **04 · Custom web platforms** | Laravel, Angular and Nuxt web apps and SaaS products |
-| **05 · CRM, ERP and API integrations** | Connecting the systems you already run on |
-| **06 · Booking, payments and operations** | The day-to-day systems a business runs on |
-
-> [!NOTE]
-> My agents read real data and never invent prices or stock. Sensitive actions such as payments, refunds and deletions need explicit human confirmation, and every action is logged.
-
-### `MISSION LOG` · selected work
-
-Taken from my [field reports](https://mubashirhussain.com/field-reports): work done inside real businesses. No results are claimed unless they were measured.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://mubashirhussain.com/field-reports/fone-doctors">Running a UK repair business on one platform</a></b><br>
-      <sub>Jul 2025 to present</sub><br>
-      I'm lead developer on the platform a repair business runs its day on: customers, devices and repairs, bookings, payments, invoices and trade-ins.<br>
-      <sub><code>Laravel</code> <code>MySQL</code> <code>Vue.js</code> <code>Tailwind CSS</code> <code>REST API</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://mubashirhussain.com/field-reports/fone-doctors-website">The website where customers book a repair</a></b><br>
-      <sub>Jul 2025 to present</sub><br>
-      Customers find their device, see repair prices and book a repair, by post or in person.<br>
-      <sub><code>Nuxt</code> <code>Vue.js</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://mubashirhussain.com/field-reports/fone-doctors-ane">An operating system for a repair business</a></b><br>
-      ANE is the private staff workspace behind the shop, an all-in-one operating system for device repair professionals and technical clinics.
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://mubashirhussain.com/field-reports/khadim-pos">A point-of-sale built for repair shops</a></b><br>
-      A POS and shop-management system made for repair businesses rather than adapted from a retail till.<br>
-      <sub><code>Laravel</code> <code>Vue.js</code> <code>MySQL</code> <code>Tailwind CSS</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://mubashirhussain.com/field-reports/repair-front">Online booking and shop for repair businesses</a></b><br>
-      <sub>Jan 2025 to Apr 2026</sub><br>
-      Lets repair businesses take bookings and payments online without phone calls.
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://mubashirhussain.com/field-reports/sultan-academy">A learning platform with secure video access</a></b><br>
-      Administrators manage courses and video lectures, and students get secure access.<br>
-      <sub><code>Laravel</code> <code>PHP</code> <code>MySQL</code> <code>Vue.js</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <b><a href="https://mubashirhussain.com/field-reports/this-website">A team of AI agents that answers customers</a></b> · <sub>2026</sub><br>
-      The agent on my site is a coordinator and four specialists, each on its own model with only the tools it needs.
-      <b><a href="https://mubashirhussain.com/demos">Try the live demos →</a></b><br>
-      <sub><code>Laravel</code> <code>LLM APIs</code> <code>MCP</code> <code>Server-sent streaming</code></sub>
-    </td>
-  </tr>
-</table>
-
-More systems, including [ComplyChase AI](https://mubashirhussain.com/projects/complychase-ai) and [CrawlReady AI](https://mubashirhussain.com/projects/crawlready-ai), are in my [systems registry](https://mubashirhussain.com/projects).
-
-### `INSTRUMENTS` · tech stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,python,fastapi,vue,nuxtjs,angular&amp;theme=dark&amp;perline=8" alt="Laravel, PHP, MySQL, Python, FastAPI, Vue.js, Nuxt, Angular"><br>
-  <img src="https://skillicons.dev/icons?i=tailwind,js,wordpress,postman,git,github,gitlab&amp;theme=dark&amp;perline=8" alt="Tailwind CSS, JavaScript, WordPress, Postman, Git, GitHub, GitLab">
+  <b>Need something built for your business?</b><br>
+  I take on a few projects at a time. Tell me the problem and you get a clear plan, a fixed price or a weekly rate, and working progress every week.<br><br>
+  <a href="https://mubashirhussain.com/book"><b>Book a free call</b></a> · <a href="mailto:hello@mubashirhussain.com">hello@mubashirhussain.com</a> · Lahore, Pakistan · remote worldwide
 </p>
-
-<details>
-  <summary><b>Full stack breakdown</b></summary>
-  <br>
-
-| Area | Tools |
-|---|---|
-| **Backend** | Laravel, PHP, Livewire, MySQL, Python (FastAPI), REST APIs |
-| **Frontend** | Vue.js, Nuxt, Angular, Tailwind CSS, JavaScript |
-| **AI and automation** | LLM APIs, Model Context Protocol (MCP), multi-agent systems, server-sent streaming |
-| **CMS** | WordPress, WooCommerce |
-| **Tooling** | Git, GitHub, GitLab, Laravel Forge |
-
-</details>
-
-### `TELEMETRY` · activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mubashirhussainkhadim&amp;show_icons=true&amp;hide=stars,contribs&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=07080a&amp;title_color=ffb02e&amp;text_color=eceae3&amp;icon_color=ffb02e&amp;hide_border=true&amp;border_radius=10&amp;disable_animations=true" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubashirhussainkhadim&amp;layout=compact&amp;langs_count=8&amp;hide=java,solidity&amp;bg_color=07080a&amp;title_color=ffb02e&amp;text_color=eceae3&amp;hide_border=true&amp;border_radius=10&amp;disable_animations=true" alt="Top languages" height="165">
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mubashirhussainkhadim&amp;background=07080a&amp;ring=FFB02E&amp;fire=FFB02E&amp;currStreakNum=ECEAE3&amp;sideNums=ECEAE3&amp;currStreakLabel=FFB02E&amp;sideLabels=A9A79D&amp;dates=A9A79D&amp;stroke=0E1013&amp;hide_border=true&amp;border_radius=10&amp;disable_animations=true" alt="GitHub streak" height="165">
-</p>
-
-<p align="center"><sub>Most client work lives in private repos, so public numbers show only part of it.</sub></p>
-
-### `DISPATCHES` · latest articles
-
-| Date | Article |
-|---|---|
-| 25 Oct 2026 | [Your AI agent doesn't need an org chart: what Anthropic's advice on subagents means for your build](https://mubashirhussain.com/blog/your-ai-agent-doesnt-need-an-org-chart-what-anthropics-advice-on-subagents-means-for-your-build) |
-| 24 Oct 2026 | [Stop giving AI agents your passwords: what the US bank lockout means for your business](https://mubashirhussain.com/blog/stop-giving-ai-agents-your-passwords-what-the-us-bank-lockout-means-for-your-business) |
-| 23 Oct 2026 | [Why a business agent must never invent prices](https://mubashirhussain.com/blog/why-a-business-agent-must-never-invent-prices) |
-
-More dispatches from the field on [mubashirhussain.com/blog](https://mubashirhussain.com/blog) ([RSS](https://mubashirhussain.com/rss.xml)).
-
-### `TRANSMIT` · contact
-
-> **What needs fixing? [Book a call →](https://mubashirhussain.com/book)**
-> A short call to hear what you're trying to fix. You get a calendar invite with a Google Meet link.
-
-<p align="center">
-  <a href="https://mubashirhussain.com/book"><img src="https://img.shields.io/badge/Book_a_call-mubashirhussain.com%2Fbook-ffb02e?style=for-the-badge&amp;labelColor=07080a&amp;logo=googlecalendar&amp;logoColor=ffb02e" alt="Book a call"></a>
-  <a href="https://mubashirhussain.com/contact"><img src="https://img.shields.io/badge/Website-mubashirhussain.com-eceae3?style=for-the-badge&amp;labelColor=07080a&amp;logo=googlechrome&amp;logoColor=ffb02e" alt="Brief my agent or write to me"></a>
-  <a href="mailto:hello@mubashirhussain.com"><img src="https://img.shields.io/badge/Email-hello@mubashirhussain.com-eceae3?style=for-the-badge&amp;labelColor=07080a&amp;logo=maildotru&amp;logoColor=ffb02e" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/mubashirdev/"><img src="https://img.shields.io/badge/LinkedIn-mubashirdev-eceae3?style=for-the-badge&amp;labelColor=07080a" alt="LinkedIn"></a>
-  <a href="https://x.com/mubashir_khadim"><img src="https://img.shields.io/badge/X-@mubashir__khadim-eceae3?style=for-the-badge&amp;labelColor=07080a&amp;logo=x&amp;logoColor=ffb02e" alt="X"></a>
-  <a href="https://app.yunojuno.com/p/mubashir-hussain/"><img src="https://img.shields.io/badge/Hire_me-YunoJuno-eceae3?style=for-the-badge&amp;labelColor=07080a" alt="Hire me on YunoJuno"></a>
-</p>
-
-<p align="center"><sub>mubashirhussain.com | linkedin.com/in/mubashirdev · Lahore, Pakistan · remote worldwide</sub></p>
