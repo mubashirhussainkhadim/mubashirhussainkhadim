@@ -77,11 +77,11 @@ More, including [CrawlReady AI](https://mubashirhussain.com/projects/crawlready-
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Laravel vs Node.js for business apps: what I&#39;d pick for a small business](https://mubashirhussain.com/blogs/laravel-vs-nodejs-for-business-apps)
 - [n8n vs Zapier vs Make vs a custom-built agent: what I&#39;d pick for a small business](https://mubashirhussain.com/blogs/n8n-vs-zapier-vs-make-vs-custom-agent)
 - [Let the agent pick the moment, not the order: AWS now lets agents run fixed workflows](https://mubashirhussain.com/blogs/let-the-agent-pick-the-moment-not-the-order-aws-now-lets-agents-run-fixed-workflows)
 - [AI agent vs chatbot vs simple automation: which one does your small business actually need?](https://mubashirhussain.com/blogs/ai-agent-vs-chatbot-vs-automation)
 - [Your AI agent shouldn&#39;t call tools one at a time: what Factory&#39;s Droid 1.0 means for bulk jobs](https://mubashirhussain.com/blogs/your-ai-agent-shouldnt-call-tools-one-at-a-time-what-factorys-droid-10-means-for-bulk-jobs)
-- [Forward deployed engineer vs software engineer vs consultant: which one does your business need?](https://mubashirhussain.com/blogs/fde-vs-software-engineer-vs-consultant)
 <!-- BLOG-POST-LIST:END -->
 
 [Read all articles →](https://mubashirhussain.com/blogs)
