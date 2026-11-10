@@ -77,11 +77,11 @@ More, including [CrawlReady AI](https://mubashirhussain.com/projects/crawlready-
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Freelancer vs agency vs in-house developer: who should build your software?](https://mubashirhussain.com/blogs/freelancer-vs-agency-vs-in-house-developer)
 - [AI voice agent vs receptionist vs IVR: who should answer your phone?](https://mubashirhussain.com/blogs/ai-voice-agent-vs-receptionist-vs-ivr)
 - [RAG vs fine-tuning: how to teach an AI about your business](https://mubashirhussain.com/blogs/rag-vs-fine-tuning-for-business-ai)
 - [OpenAI vs Claude vs Gemini for business AI agents: how I actually choose](https://mubashirhussain.com/blogs/openai-vs-claude-vs-gemini-for-business-agents)
 - [Custom CRM vs HubSpot vs Zoho CRM: an honest take for small businesses](https://mubashirhussain.com/blogs/custom-crm-vs-hubspot-vs-zoho)
-- [Laravel vs Node.js for business apps: what I&#39;d pick for a small business](https://mubashirhussain.com/blogs/laravel-vs-nodejs-for-business-apps)
 <!-- BLOG-POST-LIST:END -->
 
 [Read all articles →](https://mubashirhussain.com/blogs)
