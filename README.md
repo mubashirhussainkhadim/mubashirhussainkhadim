@@ -77,11 +77,11 @@ More, including [CrawlReady AI](https://mubashirhussain.com/projects/crawlready-
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [MCP vs plain API integrations: what your business actually needs](https://mubashirhussain.com/blog/mcp-vs-plain-api-integrations)
 - [WhatsApp bot vs website chat widget: where should your AI assistant live?](https://mubashirhussain.com/blog/whatsapp-bot-vs-website-chat-widget)
 - [Freelancer vs agency vs in-house developer: who should build your software?](https://mubashirhussain.com/blog/freelancer-vs-agency-vs-in-house-developer)
 - [AI voice agent vs receptionist vs IVR: who should answer your phone?](https://mubashirhussain.com/blog/ai-voice-agent-vs-receptionist-vs-ivr)
 - [RAG vs fine-tuning: how to teach an AI about your business](https://mubashirhussain.com/blog/rag-vs-fine-tuning-for-business-ai)
-- [OpenAI vs Claude vs Gemini for business AI agents: how I actually choose](https://mubashirhussain.com/blog/openai-vs-claude-vs-gemini-for-business-agents)
 <!-- BLOG-POST-LIST:END -->
 
 [Read all articles →](https://mubashirhussain.com/blogs)
