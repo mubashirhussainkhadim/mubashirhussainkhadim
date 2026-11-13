@@ -77,11 +77,11 @@ More, including [CrawlReady AI](https://mubashirhussain.com/projects/crawlready-
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [DaVinci Resolve titles and templates: build a title once, reuse it on every video](https://mubashirhussain.com/blog/davinci-resolve-titles-and-templates)
 - [No-code vs custom code for small business: when to stop dragging boxes](https://mubashirhussain.com/blog/no-code-vs-custom-code-for-small-business)
 - [MCP vs plain API integrations: what your business actually needs](https://mubashirhussain.com/blog/mcp-vs-plain-api-integrations)
 - [WhatsApp bot vs website chat widget: where should your AI assistant live?](https://mubashirhussain.com/blog/whatsapp-bot-vs-website-chat-widget)
 - [Freelancer vs agency vs in-house developer: who should build your software?](https://mubashirhussain.com/blog/freelancer-vs-agency-vs-in-house-developer)
-- [AI voice agent vs receptionist vs IVR: who should answer your phone?](https://mubashirhussain.com/blog/ai-voice-agent-vs-receptionist-vs-ivr)
 <!-- BLOG-POST-LIST:END -->
 
 [Read all articles →](https://mubashirhussain.com/blogs)
