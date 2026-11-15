@@ -77,11 +77,11 @@ More, including [CrawlReady AI](https://mubashirhussain.com/projects/crawlready-
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Airtable vs Google Sheets vs a real database: where should your business data live?](https://mubashirhussain.com/blog/airtable-vs-google-sheets-vs-database)
 - [Retell vs Vapi vs Bland: choosing a platform for an AI voice agent](https://mubashirhussain.com/blog/retell-vs-vapi-vs-bland-voice-agents)
 - [DaVinci Resolve titles and templates: build a title once, reuse it on every video](https://mubashirhussain.com/blog/davinci-resolve-titles-and-templates)
 - [No-code vs custom code for small business: when to stop dragging boxes](https://mubashirhussain.com/blog/no-code-vs-custom-code-for-small-business)
 - [MCP vs plain API integrations: what your business actually needs](https://mubashirhussain.com/blog/mcp-vs-plain-api-integrations)
-- [WhatsApp bot vs website chat widget: where should your AI assistant live?](https://mubashirhussain.com/blog/whatsapp-bot-vs-website-chat-widget)
 <!-- BLOG-POST-LIST:END -->
 
 [Read all articles →](https://mubashirhussain.com/blogs)
