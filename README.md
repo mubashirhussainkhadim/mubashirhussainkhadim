@@ -77,11 +77,11 @@ More, including [CrawlReady AI](https://mubashirhussain.com/projects/crawlready-
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [WordPress vs Laravel for a business website: which one do you need?](https://mubashirhussain.com/blog/wordpress-vs-laravel-for-business-website)
 - [Airtable vs Google Sheets vs a real database: where should your business data live?](https://mubashirhussain.com/blog/airtable-vs-google-sheets-vs-database)
 - [Retell vs Vapi vs Bland: choosing a platform for an AI voice agent](https://mubashirhussain.com/blog/retell-vs-vapi-vs-bland-voice-agents)
 - [DaVinci Resolve titles and templates: build a title once, reuse it on every video](https://mubashirhussain.com/blog/davinci-resolve-titles-and-templates)
 - [No-code vs custom code for small business: when to stop dragging boxes](https://mubashirhussain.com/blog/no-code-vs-custom-code-for-small-business)
-- [MCP vs plain API integrations: what your business actually needs](https://mubashirhussain.com/blog/mcp-vs-plain-api-integrations)
 <!-- BLOG-POST-LIST:END -->
 
 [Read all articles →](https://mubashirhussain.com/blogs)
