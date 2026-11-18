@@ -77,11 +77,11 @@ More, including [CrawlReady AI](https://mubashirhussain.com/projects/crawlready-
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Self-hosted vs cloud LLMs for business: should you run your own AI?](https://mubashirhussain.com/blog/self-hosted-vs-cloud-llms-for-business)
 - [Fiverr vs Upwork vs hiring a developer directly: what it really costs you](https://mubashirhussain.com/blog/fiverr-vs-upwork-vs-direct-hire)
 - [WordPress vs Laravel for a business website: which one do you need?](https://mubashirhussain.com/blog/wordpress-vs-laravel-for-business-website)
 - [Airtable vs Google Sheets vs a real database: where should your business data live?](https://mubashirhussain.com/blog/airtable-vs-google-sheets-vs-database)
 - [Retell vs Vapi vs Bland: choosing a platform for an AI voice agent](https://mubashirhussain.com/blog/retell-vs-vapi-vs-bland-voice-agents)
-- [DaVinci Resolve titles and templates: build a title once, reuse it on every video](https://mubashirhussain.com/blog/davinci-resolve-titles-and-templates)
 <!-- BLOG-POST-LIST:END -->
 
 [Read all articles →](https://mubashirhussain.com/blogs)
