@@ -77,11 +77,11 @@ More, including [CrawlReady AI](https://mubashirhussain.com/projects/crawlready-
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [How to build a WhatsApp AI support agent with n8n](https://mubashirhussain.com/blog/how-to-build-a-whatsapp-ai-support-agent-with-n8n)
 - [What is agentic AI? A plain-English guide for business owners](https://mubashirhussain.com/blog/what-is-agentic-ai-a-plain-english-guide-for-business-owners)
 - [Booking app vs custom booking system: when Calendly stops being enough](https://mubashirhussain.com/blog/booking-app-vs-custom-booking-system)
 - [Self-hosted vs cloud LLMs for business: should you run your own AI?](https://mubashirhussain.com/blog/self-hosted-vs-cloud-llms-for-business)
 - [Fiverr vs Upwork vs hiring a developer directly: what it really costs you](https://mubashirhussain.com/blog/fiverr-vs-upwork-vs-direct-hire)
-- [WordPress vs Laravel for a business website: which one do you need?](https://mubashirhussain.com/blog/wordpress-vs-laravel-for-business-website)
 <!-- BLOG-POST-LIST:END -->
 
 [Read all articles →](https://mubashirhussain.com/blogs)
