@@ -77,11 +77,11 @@ More, including [CrawlReady AI](https://mubashirhussain.com/projects/crawlready-
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [How to build a RAG knowledge assistant for your small business](https://mubashirhussain.com/blog/how-to-build-a-rag-knowledge-assistant-for-your-small-business)
 - [How to build your first MCP server and connect it to Claude](https://mubashirhussain.com/blog/how-to-build-your-first-mcp-server-and-connect-it-to-claude)
 - [How to build a WhatsApp AI support agent with n8n](https://mubashirhussain.com/blog/how-to-build-a-whatsapp-ai-support-agent-with-n8n)
 - [What is agentic AI? A plain-English guide for business owners](https://mubashirhussain.com/blog/what-is-agentic-ai-a-plain-english-guide-for-business-owners)
 - [Booking app vs custom booking system: when Calendly stops being enough](https://mubashirhussain.com/blog/booking-app-vs-custom-booking-system)
-- [Self-hosted vs cloud LLMs for business: should you run your own AI?](https://mubashirhussain.com/blog/self-hosted-vs-cloud-llms-for-business)
 <!-- BLOG-POST-LIST:END -->
 
 [Read all articles →](https://mubashirhussain.com/blogs)
