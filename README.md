@@ -77,11 +77,11 @@ More, including [CrawlReady AI](https://mubashirhussain.com/projects/crawlready-
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [How to connect Claude or ChatGPT to your CRM without handing over a password](https://mubashirhussain.com/blog/how-to-connect-claude-or-chatgpt-to-your-crm-without-handing-over-a-password)
 - [How to build an AI agent in Laravel that uses your database safely](https://mubashirhussain.com/blog/how-to-build-an-ai-agent-in-laravel-that-uses-your-database-safely)
 - [How to build a RAG knowledge assistant for your small business](https://mubashirhussain.com/blog/how-to-build-a-rag-knowledge-assistant-for-your-small-business)
 - [How to build your first MCP server and connect it to Claude](https://mubashirhussain.com/blog/how-to-build-your-first-mcp-server-and-connect-it-to-claude)
 - [How to build a WhatsApp AI support agent with n8n](https://mubashirhussain.com/blog/how-to-build-a-whatsapp-ai-support-agent-with-n8n)
-- [What is agentic AI? A plain-English guide for business owners](https://mubashirhussain.com/blog/what-is-agentic-ai-a-plain-english-guide-for-business-owners)
 <!-- BLOG-POST-LIST:END -->
 
 [Read all articles →](https://mubashirhussain.com/blogs)
