@@ -77,11 +77,11 @@ More, including [CrawlReady AI](https://mubashirhussain.com/projects/crawlready-
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [What is prompt injection? A plain-English guide for business owners](https://mubashirhussain.com/blog/what-is-prompt-injection-plain-english-for-business-owners)
 - [How I&#39;d test an AI agent before I let it talk to customers](https://mubashirhussain.com/blog/how-id-test-an-ai-agent-before-i-let-it-talk-to-customers)
 - [How to connect Claude or ChatGPT to your CRM without handing over a password](https://mubashirhussain.com/blog/how-to-connect-claude-or-chatgpt-to-your-crm-without-handing-over-a-password)
 - [How to build an AI agent in Laravel that uses your database safely](https://mubashirhussain.com/blog/how-to-build-an-ai-agent-in-laravel-that-uses-your-database-safely)
 - [How to build a RAG knowledge assistant for your small business](https://mubashirhussain.com/blog/how-to-build-a-rag-knowledge-assistant-for-your-small-business)
-- [How to build your first MCP server and connect it to Claude](https://mubashirhussain.com/blog/how-to-build-your-first-mcp-server-and-connect-it-to-claude)
 <!-- BLOG-POST-LIST:END -->
 
 [Read all articles →](https://mubashirhussain.com/blogs)
